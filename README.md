@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pawjects/pawjects.github.io/refs/heads/main/paw.gif" style="height: 100px;" alt="paw" />
+<img src="/paw.gif" style="height: 100px;" alt="paw" />
 
 <br>
 
 <p align="center">
   <a href="https://github.com/pawjects">
-    <img src="https://img.shields.io/badge/Pawjects-24292F?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pawjects-24292F?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  <a href="https://pawjects.github.io/">
-    <img src="https://img.shields.io/badge/Website-3B82F6?style=flat&logo=googlechrome&logoColor=white" />
+  <a href="https://pawjects.moe.page">
+    <img src="https://img.shields.io/badge/Website-3B82F6?style=flat&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-Build-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
 ### 🐾 Building practical software with creativity, curiosity and simplicity.
@@ -22,61 +23,53 @@
 
 ## 🐾 About
 
-Pawjects is an independent open-source collective focused on building useful software across Android, Web and Telegram.
+**Pawjects** is an independent open-source collective focused on building useful software across Android, Web and Telegram.
 
-We create projects that are:
+Rewritten as a modern **React + Vite + TypeScript** single-page application, preserving all original features, styles, and utilities:
 
-- ⚡ Lightweight
-- 🎨 Modern
-- 🔓 Open Source
-- 🧩 User Focused
-
-Instead of collecting ideas, we build them.
+- ⚡ **Lightweight** — Fast, efficient software that runs smoothly without unneeded background scripts or tracking bloat.
+- 🎨 **Modern Design** — Clean typography, dark mode palette, responsive drawers, and tactile haptic feedback.
+- 🔓 **Open Source** — Transparent code openly published on GitHub for community audit and collaboration.
+- 🧩 **User Focused** — Focused tools designed for everyday utility.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🐾 PawGram
-Ad-free Instagram experience with visual improvements and iOS emojis.
+### 🐾 [PawGram](https://github.com/pawjects/PawGram)
+Ad-free Instagram client experience for Android with built-in iOS emoji rendering, AMOLED dark theme, and zero sponsored feed injections.
 
-### 📥 PawDownloader
-Fast and lightweight media downloading utility.
+### 📥 [PawDownloader](https://t.me/PawDownloaderRobot)
+Fast, queue-free media downloader robot for Telegram supporting multi-platform links with lossless quality extraction.
 
-### 🎵 Pawtify
-Modern music-inspired platform and UI experiment.
+### 🎵 [Pawtify](https://github.com/pawjects/Pawtify)
+Music streaming player concept focused on smooth waveform playback scrubbing, clean queue management, and lightweight DOM.
 
-### ▶️ PawTube
-Experimental video platform focused on simplicity.
-
----
-
-## 💡 Why Pawjects?
-
-- We build real projects.
-- We learn publicly.
-- We embrace open source.
-- We value clean design.
-- We ship ideas instead of leaving them unfinished.
+### ▶️ [PawTube](https://github.com/pawjects/PawTube/)
+Minimalist video playback portal designed for lightweight, distraction-free viewing without recommendation traps.
 
 ---
 
-## 🤝 Join Us
+## 🛠️ Development
 
-Whether you're a:
+```bash
+# Install dependencies
+npm install
 
-- Developer
-- Designer
-- Android Enthusiast
-- Open Source Contributor
-- Curious Learner
+# Start development server on port 3000
+npm run dev
 
-There's always something being built.
+# Build production bundle
+npm run build
+
+# Run TypeScript checks
+npm run lint
+```
 
 ---
 
 <div align="center">
 
-### ⭐ Follow the journey.
+### ⭐ Built with simplicity and curiosity.
 
 </div>
